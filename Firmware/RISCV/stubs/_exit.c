@@ -4,7 +4,7 @@
 
 #include "stub.h"
 
-#if 0
+#if 1
 void _exit(int code)
 {
   const char message[] = "\nProgram has exited with code:";
